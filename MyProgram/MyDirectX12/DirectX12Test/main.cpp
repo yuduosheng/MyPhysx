@@ -15,6 +15,8 @@ float m_aspectRatio;
 wstring windowName = L"First Window.";
 
 
+
+
 void OnInit();
 void OnUpdate();
 void OnRender();
