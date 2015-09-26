@@ -11,3 +11,8 @@
 
 # Explicitly declare resource files as binary
 *.bin binary
+#Explicitly vs files
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
